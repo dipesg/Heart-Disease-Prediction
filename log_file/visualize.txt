@@ -1,0 +1,208 @@
+2022-03-13/16:54:23		Standardising..
+2022-03-13/16:54:23		Creating new Dataframe.
+2022-03-13/16:54:23		Separating dependent and independent features
+2022-03-13/16:54:23		Performing Scikit learn train_test_split.
+2022-03-13/16:55:10		Standardising..
+2022-03-13/16:55:10		Creating new Dataframe.
+2022-03-13/16:55:10		Separating dependent and independent features
+2022-03-13/16:55:10		Performing Scikit learn train_test_split.
+2022-03-13/20:28:12		Standardising..
+2022-03-13/20:28:12		Creating new Dataframe.
+2022-03-13/20:28:12		Separating dependent and independent features
+2022-03-13/20:28:12		Performing Scikit learn train_test_split.
+2022-03-13/20:29:16		Standardising..
+2022-03-13/20:29:16		Creating new Dataframe.
+2022-03-13/20:29:16		Separating dependent and independent features
+2022-03-13/20:29:16		Performing Scikit learn train_test_split.
+2022-03-13/20:36:11		Standardising..
+2022-03-13/20:36:11		Creating new Dataframe.
+2022-03-13/20:36:11		Separating dependent and independent features
+2022-03-13/20:36:11		Performing Scikit learn train_test_split.
+2022-03-13/20:39:44		Standardising..
+2022-03-13/20:39:44		Creating new Dataframe.
+2022-03-13/20:39:44		Separating dependent and independent features
+2022-03-13/20:39:44		Performing Scikit learn train_test_split.
+2022-03-13/20:42:43		Standardising..
+2022-03-13/20:42:43		Creating new Dataframe.
+2022-03-13/20:42:43		Separating dependent and independent features
+2022-03-13/20:42:43		Performing Scikit learn train_test_split.
+2022-03-13/20:45:35		Standardising..
+2022-03-13/20:45:35		Creating new Dataframe.
+2022-03-13/20:45:35		Separating dependent and independent features
+2022-03-13/20:45:35		Performing Scikit learn train_test_split.
+2022-03-13/20:47:02		Standardising..
+2022-03-13/20:47:02		Creating new Dataframe.
+2022-03-13/20:47:02		Separating dependent and independent features
+2022-03-13/20:47:02		Performing Scikit learn train_test_split.
+2022-03-13/20:52:37		Standardising..
+2022-03-13/20:52:37		Creating new Dataframe.
+2022-03-13/20:52:37		Separating dependent and independent features
+2022-03-13/20:52:37		Performing Scikit learn train_test_split.
+2022-03-13/20:53:24		Standardising..
+2022-03-13/20:53:24		Creating new Dataframe.
+2022-03-13/20:53:24		Separating dependent and independent features
+2022-03-13/20:53:24		Performing Scikit learn train_test_split.
+2022-03-13/21:08:59		Standardising..
+2022-03-13/21:08:59		Creating new Dataframe.
+2022-03-13/21:08:59		Separating dependent and independent features
+2022-03-13/21:08:59		Performing Scikit learn train_test_split.
+2022-03-13/21:15:49		Standardising..
+2022-03-13/21:15:49		Creating new Dataframe.
+2022-03-13/21:15:49		Separating dependent and independent features
+2022-03-13/21:15:49		Performing Scikit learn train_test_split.
+2022-03-13/21:21:37		Standardising..
+2022-03-13/21:21:37		Creating new Dataframe.
+2022-03-13/21:21:37		Separating dependent and independent features
+2022-03-13/21:21:37		Performing Scikit learn train_test_split.
+2022-03-13/21:22:05		Standardising..
+2022-03-13/21:22:05		Creating new Dataframe.
+2022-03-13/21:22:05		Separating dependent and independent features
+2022-03-13/21:22:05		Performing Scikit learn train_test_split.
+2022-03-13/21:22:52		Standardising..
+2022-03-13/21:22:52		Creating new Dataframe.
+2022-03-13/21:22:52		Separating dependent and independent features
+2022-03-13/21:22:52		Performing Scikit learn train_test_split.
+2022-03-13/21:33:26		Standardising..
+2022-03-13/21:33:26		Creating new Dataframe.
+2022-03-13/21:33:26		Separating dependent and independent features
+2022-03-13/21:33:26		Performing Scikit learn train_test_split.
+2022-03-13/21:34:26		Standardising..
+2022-03-13/21:34:26		Creating new Dataframe.
+2022-03-13/21:34:26		Separating dependent and independent features
+2022-03-13/21:34:26		Performing Scikit learn train_test_split.
+2022-03-13/21:34:55		Standardising..
+2022-03-13/21:34:55		Creating new Dataframe.
+2022-03-13/21:34:55		Separating dependent and independent features
+2022-03-13/21:34:55		Performing Scikit learn train_test_split.
+2022-03-13/21:35:51		Standardising..
+2022-03-13/21:35:51		Creating new Dataframe.
+2022-03-13/21:35:51		Separating dependent and independent features
+2022-03-13/21:35:51		Performing Scikit learn train_test_split.
+2022-03-13/21:36:50		Standardising..
+2022-03-13/21:36:50		Creating new Dataframe.
+2022-03-13/21:36:50		Separating dependent and independent features
+2022-03-13/21:36:50		Performing Scikit learn train_test_split.
+2022-03-13/21:37:20		Standardising..
+2022-03-13/21:37:20		Creating new Dataframe.
+2022-03-13/21:37:20		Separating dependent and independent features
+2022-03-13/21:37:20		Performing Scikit learn train_test_split.
+2022-03-13/21:39:29		Standardising..
+2022-03-13/21:39:29		Creating new Dataframe.
+2022-03-13/21:39:29		Separating dependent and independent features
+2022-03-13/21:39:29		Performing Scikit learn train_test_split.
+2022-03-13/22:03:30		Standardising..
+2022-03-13/22:03:30		Creating new Dataframe.
+2022-03-13/22:03:30		Separating dependent and independent features
+2022-03-13/22:03:30		Performing Scikit learn train_test_split.
+2022-03-13/22:06:40		Standardising..
+2022-03-13/22:06:40		Creating new Dataframe.
+2022-03-13/22:06:40		Separating dependent and independent features
+2022-03-13/22:06:40		Performing Scikit learn train_test_split.
+2022-03-13/22:07:37		Standardising..
+2022-03-13/22:07:37		Creating new Dataframe.
+2022-03-13/22:07:37		Separating dependent and independent features
+2022-03-13/22:07:37		Performing Scikit learn train_test_split.
+2022-03-13/22:08:39		Standardising..
+2022-03-13/22:08:39		Creating new Dataframe.
+2022-03-13/22:08:39		Separating dependent and independent features
+2022-03-13/22:08:39		Performing Scikit learn train_test_split.
+2022-03-13/22:16:39		Standardising..
+2022-03-13/22:16:39		Creating new Dataframe.
+2022-03-13/22:16:39		Separating dependent and independent features
+2022-03-13/22:16:39		Performing Scikit learn train_test_split.
+2022-03-13/22:23:00		Standardising..
+2022-03-13/22:23:00		Creating new Dataframe.
+2022-03-13/22:23:00		Separating dependent and independent features
+2022-03-13/22:23:00		Performing Scikit learn train_test_split.
+2022-03-13/22:23:42		Standardising..
+2022-03-13/22:23:42		Creating new Dataframe.
+2022-03-13/22:23:42		Separating dependent and independent features
+2022-03-13/22:23:42		Performing Scikit learn train_test_split.
+2022-03-13/23:02:10		Standardising..
+2022-03-13/23:02:10		Creating new Dataframe.
+2022-03-13/23:02:10		Separating dependent and independent features
+2022-03-13/23:02:10		Performing Scikit learn train_test_split.
+2022-03-13/23:03:16		Standardising..
+2022-03-13/23:03:16		Creating new Dataframe.
+2022-03-13/23:03:16		Separating dependent and independent features
+2022-03-13/23:03:16		Performing Scikit learn train_test_split.
+2022-03-13/23:05:08		Standardising..
+2022-03-13/23:05:08		Creating new Dataframe.
+2022-03-13/23:05:08		Separating dependent and independent features
+2022-03-13/23:05:08		Performing Scikit learn train_test_split.
+2022-03-13/23:05:50		Standardising..
+2022-03-13/23:05:50		Creating new Dataframe.
+2022-03-13/23:05:50		Separating dependent and independent features
+2022-03-13/23:05:50		Performing Scikit learn train_test_split.
+2022-03-13/23:08:00		Standardising..
+2022-03-13/23:08:00		Creating new Dataframe.
+2022-03-13/23:08:00		Separating dependent and independent features
+2022-03-13/23:08:00		Performing Scikit learn train_test_split.
+2022-03-13/23:13:51		Standardising..
+2022-03-13/23:13:51		Creating new Dataframe.
+2022-03-13/23:13:51		Separating dependent and independent features
+2022-03-13/23:13:51		Performing Scikit learn train_test_split.
+2022-03-13/23:14:27		Standardising..
+2022-03-13/23:14:27		Creating new Dataframe.
+2022-03-13/23:14:27		Separating dependent and independent features
+2022-03-13/23:14:27		Performing Scikit learn train_test_split.
+2022-03-13/23:20:40		Standardising..
+2022-03-13/23:20:40		Creating new Dataframe.
+2022-03-13/23:20:40		Separating dependent and independent features
+2022-03-13/23:20:40		Performing Scikit learn train_test_split.
+2022-03-13/23:20:59		Standardising..
+2022-03-13/23:20:59		Creating new Dataframe.
+2022-03-13/23:20:59		Separating dependent and independent features
+2022-03-13/23:20:59		Performing Scikit learn train_test_split.
+2022-03-13/23:23:36		Standardising..
+2022-03-13/23:23:36		Creating new Dataframe.
+2022-03-13/23:23:37		Separating dependent and independent features
+2022-03-13/23:23:37		Performing Scikit learn train_test_split.
+2022-03-13/23:24:29		Standardising..
+2022-03-13/23:24:29		Creating new Dataframe.
+2022-03-13/23:24:29		Separating dependent and independent features
+2022-03-13/23:24:29		Performing Scikit learn train_test_split.
+2022-03-13/23:25:46		Standardising..
+2022-03-13/23:25:46		Creating new Dataframe.
+2022-03-13/23:25:46		Separating dependent and independent features
+2022-03-13/23:25:46		Performing Scikit learn train_test_split.
+2022-03-13/23:26:31		Standardising..
+2022-03-13/23:26:31		Creating new Dataframe.
+2022-03-13/23:26:31		Separating dependent and independent features
+2022-03-13/23:26:31		Performing Scikit learn train_test_split.
+2022-03-13/23:26:52		Standardising..
+2022-03-13/23:26:52		Creating new Dataframe.
+2022-03-13/23:26:52		Separating dependent and independent features
+2022-03-13/23:26:52		Performing Scikit learn train_test_split.
+2022-03-13/23:27:40		Standardising..
+2022-03-13/23:27:40		Creating new Dataframe.
+2022-03-13/23:27:40		Separating dependent and independent features
+2022-03-13/23:27:40		Performing Scikit learn train_test_split.
+2022-03-13/23:31:04		Standardising..
+2022-03-13/23:31:04		Creating new Dataframe.
+2022-03-13/23:31:04		Separating dependent and independent features
+2022-03-13/23:31:04		Performing Scikit learn train_test_split.
+2022-03-13/23:31:50		Standardising..
+2022-03-13/23:31:50		Creating new Dataframe.
+2022-03-13/23:31:50		Separating dependent and independent features
+2022-03-13/23:31:50		Performing Scikit learn train_test_split.
+2022-03-13/23:32:10		Standardising..
+2022-03-13/23:32:10		Creating new Dataframe.
+2022-03-13/23:32:10		Separating dependent and independent features
+2022-03-13/23:32:10		Performing Scikit learn train_test_split.
+2022-03-13/23:32:37		Standardising..
+2022-03-13/23:32:37		Creating new Dataframe.
+2022-03-13/23:32:37		Separating dependent and independent features
+2022-03-13/23:32:37		Performing Scikit learn train_test_split.
+2022-03-13/23:43:17		Standardising..
+2022-03-13/23:43:17		Creating new Dataframe.
+2022-03-13/23:43:17		Separating dependent and independent features
+2022-03-13/23:43:17		Performing Scikit learn train_test_split.
+2022-03-13/23:44:23		Standardising..
+2022-03-13/23:44:23		Creating new Dataframe.
+2022-03-13/23:44:23		Separating dependent and independent features
+2022-03-13/23:44:23		Performing Scikit learn train_test_split.
+2022-03-13/23:45:54		Standardising..
+2022-03-13/23:45:54		Creating new Dataframe.
+2022-03-13/23:45:54		Separating dependent and independent features
+2022-03-13/23:45:54		Performing Scikit learn train_test_split.

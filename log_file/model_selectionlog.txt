@@ -1,0 +1,302 @@
+2022-03-13/22:06:40		Label Encoding
+2022-03-13/22:06:40		Before using Hyperparameter tuning.
+2022-03-13/22:07:37		Label Encoding
+2022-03-13/22:07:37		Before using Hyperparameter tuning.
+2022-03-13/22:07:37		Doing Hyperparameter tuning.
+2022-03-13/22:08:39		Label Encoding
+2022-03-13/22:08:39		Before using Hyperparameter tuning.
+2022-03-13/22:08:39		Doing Hyperparameter tuning.
+2022-03-13/22:08:44		Finish Hyperparameter tuning for logistic regression.
+2022-03-13/22:16:39		Label Encoding
+2022-03-13/22:16:39		Before using Hyperparameter tuning.
+2022-03-13/22:16:39		Doing Hyperparameter tuning.
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 0.01, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 0.01, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 0.01, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 0.01, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/22:16:44		0.784199 (0.076824) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/22:16:44		0.784199 (0.076824) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/22:16:44		0.784199 (0.076824) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/22:16:44		0.784199 (0.076824) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 0.1, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 0.1, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 0.1, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 0.1, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/22:16:44		0.785642 (0.094533) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/22:16:44		0.785642 (0.094533) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/22:16:44		0.785642 (0.094533) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/22:16:44		0.785642 (0.094533) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 1, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 1, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 1, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 1, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/22:16:44		0.768326 (0.091855) with: {'C': 1, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/22:16:44		0.768326 (0.091855) with: {'C': 1, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/22:16:44		0.768326 (0.091855) with: {'C': 1, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/22:16:44		0.768326 (0.091855) with: {'C': 1, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 10, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 10, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 10, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 10, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 10, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 10, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 10, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 10, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 100, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 100, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 100, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 100, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 100, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 100, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 100, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/22:16:44		0.766811 (0.089874) with: {'C': 100, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/22:16:44		Finish Hyperparameter tuning for logistic regression.
+2022-03-13/22:23:00		Label Encoding
+2022-03-13/22:23:00		Before using Hyperparameter tuning.
+2022-03-13/22:23:00		Doing Hyperparameter tuning.
+2022-03-13/22:23:42		Label Encoding
+2022-03-13/22:23:42		Before using Hyperparameter tuning.
+2022-03-13/22:23:42		Doing Hyperparameter tuning.
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 0.01, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 0.01, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 0.01, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 0.01, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/22:23:47		0.778355 (0.066891) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/22:23:47		0.778355 (0.066891) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/22:23:47		0.778355 (0.066891) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/22:23:47		0.778355 (0.066891) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 0.1, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 0.1, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 0.1, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 0.1, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/22:23:47		0.783550 (0.077976) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/22:23:47		0.783550 (0.077976) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/22:23:47		0.783550 (0.077976) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/22:23:47		0.783550 (0.077976) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 1, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 1, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 1, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 1, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/22:23:47		0.769048 (0.080186) with: {'C': 1, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/22:23:47		0.769048 (0.080186) with: {'C': 1, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/22:23:47		0.769048 (0.080186) with: {'C': 1, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/22:23:47		0.769048 (0.080186) with: {'C': 1, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 10, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 10, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 10, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 10, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 10, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 10, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 10, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 10, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 100, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 100, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 100, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 100, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 100, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 100, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 100, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/22:23:47		0.764286 (0.084590) with: {'C': 100, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/22:23:47		Finish Hyperparameter tuning for logistic regression using KFold.
+2022-03-13/23:03:16		Fitting svm model.
+2022-03-13/23:05:08		Fitting svm model.
+2022-03-13/23:05:50		Fitting svm model.
+2022-03-13/23:05:50		svm_acc_score*100,'%'
+2022-03-13/23:05:50		Started Tuning SVM.
+2022-03-13/23:08:00		Fitting svm model.
+2022-03-13/23:08:00		svm_acc_score*100,'%'
+2022-03-13/23:08:00		Started Tuning SVM.
+2022-03-13/23:13:51		Fitting svm model.
+2022-03-13/23:13:51		svm_acc_score*100,'%'
+2022-03-13/23:13:51		Started Tuning SVM.
+2022-03-13/23:14:27		Fitting svm model.
+2022-03-13/23:14:27		svm_acc_score*100,'%'
+2022-03-13/23:14:27		Started Tuning SVM.
+2022-03-13/23:14:29		0.731241 (0.076329) with: {'C': 50, 'gamma': 'scale', 'kernel': 'poly'}
+2022-03-13/23:14:29		0.715296 (0.089290) with: {'C': 50, 'gamma': 'scale', 'kernel': 'rbf'}
+2022-03-13/23:14:29		0.733983 (0.109154) with: {'C': 50, 'gamma': 'scale', 'kernel': 'sigmoid'}
+2022-03-13/23:14:29		0.718615 (0.097324) with: {'C': 10, 'gamma': 'scale', 'kernel': 'poly'}
+2022-03-13/23:14:29		0.737013 (0.093293) with: {'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}
+2022-03-13/23:14:29		0.723232 (0.091317) with: {'C': 10, 'gamma': 'scale', 'kernel': 'sigmoid'}
+2022-03-13/23:14:29		0.749784 (0.079318) with: {'C': 1.0, 'gamma': 'scale', 'kernel': 'poly'}
+2022-03-13/23:14:29		0.792136 (0.072329) with: {'C': 1.0, 'gamma': 'scale', 'kernel': 'rbf'}
+2022-03-13/23:14:29		0.770202 (0.096583) with: {'C': 1.0, 'gamma': 'scale', 'kernel': 'sigmoid'}
+2022-03-13/23:14:29		0.682323 (0.069198) with: {'C': 0.1, 'gamma': 'scale', 'kernel': 'poly'}
+2022-03-13/23:14:29		0.710317 (0.080927) with: {'C': 0.1, 'gamma': 'scale', 'kernel': 'rbf'}
+2022-03-13/23:14:29		0.798557 (0.096651) with: {'C': 0.1, 'gamma': 'scale', 'kernel': 'sigmoid'}
+2022-03-13/23:14:29		0.556710 (0.019282) with: {'C': 0.01, 'gamma': 'scale', 'kernel': 'poly'}
+2022-03-13/23:14:29		0.556710 (0.019282) with: {'C': 0.01, 'gamma': 'scale', 'kernel': 'rbf'}
+2022-03-13/23:14:29		0.556710 (0.019282) with: {'C': 0.01, 'gamma': 'scale', 'kernel': 'sigmoid'}
+2022-03-13/23:14:29		Finish Hyperparameter tuning for SVM.
+2022-03-13/23:20:59		Fitting KNN model.
+2022-03-13/23:23:37		Fitting KNN model.
+2022-03-13/23:24:29		Fitting KNN model.
+2022-03-13/23:25:46		Fitting KNN model.
+2022-03-13/23:26:31		Fitting KNN model.
+2022-03-13/23:26:31		Calculating accuracy Score.
+2022-03-13/23:26:31		self.knn_acc_score*100,'%'
+2022-03-13/23:26:31		Finished Fitting KNN model.
+2022-03-13/23:26:31		Starting Hyperparameter tuning KNN Begins,
+2022-03-13/23:26:52		Fitting KNN model.
+2022-03-13/23:26:52		Calculating accuracy Score.
+2022-03-13/23:26:52		self.knn_acc_score*100,'%'
+2022-03-13/23:26:52		Finished Fitting KNN model.
+2022-03-13/23:26:52		Starting Hyperparameter tuning KNN Begins,
+2022-03-13/23:26:55		grid_search.best_params_
+2022-03-13/23:26:55		Fitting KNN model with tuned parameter.
+2022-03-13/23:27:40		Fitting KNN model.
+2022-03-13/23:27:40		Calculating accuracy Score.
+2022-03-13/23:27:40		self.knn_acc_score*100,'%'
+2022-03-13/23:27:40		Finished Fitting KNN model.
+2022-03-13/23:27:40		Starting Hyperparameter tuning KNN Begins,
+2022-03-13/23:27:42		grid_search.best_params_
+2022-03-13/23:27:42		Fitting KNN model with tuned parameter.
+2022-03-13/23:27:42		0.742208 (0.082676) with: {'metric': 'euclidean', 'n_neighbors': 1, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.742208 (0.082676) with: {'metric': 'euclidean', 'n_neighbors': 1, 'weights': 'distance'}
+2022-03-13/23:27:42		0.760967 (0.074878) with: {'metric': 'euclidean', 'n_neighbors': 3, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.760967 (0.074878) with: {'metric': 'euclidean', 'n_neighbors': 3, 'weights': 'distance'}
+2022-03-13/23:27:42		0.776335 (0.094238) with: {'metric': 'euclidean', 'n_neighbors': 5, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.779509 (0.095297) with: {'metric': 'euclidean', 'n_neighbors': 5, 'weights': 'distance'}
+2022-03-13/23:27:42		0.763853 (0.079368) with: {'metric': 'euclidean', 'n_neighbors': 7, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.773304 (0.076966) with: {'metric': 'euclidean', 'n_neighbors': 7, 'weights': 'distance'}
+2022-03-13/23:27:42		0.761039 (0.085346) with: {'metric': 'euclidean', 'n_neighbors': 9, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.772078 (0.077131) with: {'metric': 'euclidean', 'n_neighbors': 9, 'weights': 'distance'}
+2022-03-13/23:27:42		0.768687 (0.092288) with: {'metric': 'euclidean', 'n_neighbors': 11, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.773449 (0.084527) with: {'metric': 'euclidean', 'n_neighbors': 11, 'weights': 'distance'}
+2022-03-13/23:27:42		0.770130 (0.090237) with: {'metric': 'euclidean', 'n_neighbors': 13, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.781241 (0.086363) with: {'metric': 'euclidean', 'n_neighbors': 13, 'weights': 'distance'}
+2022-03-13/23:27:42		0.768398 (0.085154) with: {'metric': 'euclidean', 'n_neighbors': 15, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.768615 (0.087793) with: {'metric': 'euclidean', 'n_neighbors': 15, 'weights': 'distance'}
+2022-03-13/23:27:42		0.771645 (0.084452) with: {'metric': 'euclidean', 'n_neighbors': 17, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.771717 (0.087726) with: {'metric': 'euclidean', 'n_neighbors': 17, 'weights': 'distance'}
+2022-03-13/23:27:42		0.779654 (0.082769) with: {'metric': 'euclidean', 'n_neighbors': 19, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.784343 (0.074438) with: {'metric': 'euclidean', 'n_neighbors': 19, 'weights': 'distance'}
+2022-03-13/23:27:42		0.729582 (0.090247) with: {'metric': 'manhattan', 'n_neighbors': 1, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.729582 (0.090247) with: {'metric': 'manhattan', 'n_neighbors': 1, 'weights': 'distance'}
+2022-03-13/23:27:42		0.754834 (0.072045) with: {'metric': 'manhattan', 'n_neighbors': 3, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.754834 (0.072045) with: {'metric': 'manhattan', 'n_neighbors': 3, 'weights': 'distance'}
+2022-03-13/23:27:42		0.785714 (0.090561) with: {'metric': 'manhattan', 'n_neighbors': 5, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.788961 (0.087947) with: {'metric': 'manhattan', 'n_neighbors': 5, 'weights': 'distance'}
+2022-03-13/23:27:42		0.795310 (0.083474) with: {'metric': 'manhattan', 'n_neighbors': 7, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.798485 (0.074766) with: {'metric': 'manhattan', 'n_neighbors': 7, 'weights': 'distance'}
+2022-03-13/23:27:42		0.801659 (0.085771) with: {'metric': 'manhattan', 'n_neighbors': 9, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.803319 (0.082814) with: {'metric': 'manhattan', 'n_neighbors': 9, 'weights': 'distance'}
+2022-03-13/23:27:42		0.796753 (0.086957) with: {'metric': 'manhattan', 'n_neighbors': 11, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.804545 (0.082360) with: {'metric': 'manhattan', 'n_neighbors': 11, 'weights': 'distance'}
+2022-03-13/23:27:42		0.790404 (0.089390) with: {'metric': 'manhattan', 'n_neighbors': 13, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.799928 (0.080562) with: {'metric': 'manhattan', 'n_neighbors': 13, 'weights': 'distance'}
+2022-03-13/23:27:42		0.781097 (0.087641) with: {'metric': 'manhattan', 'n_neighbors': 15, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.795310 (0.082135) with: {'metric': 'manhattan', 'n_neighbors': 15, 'weights': 'distance'}
+2022-03-13/23:27:42		0.774747 (0.094778) with: {'metric': 'manhattan', 'n_neighbors': 17, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.789105 (0.084977) with: {'metric': 'manhattan', 'n_neighbors': 17, 'weights': 'distance'}
+2022-03-13/23:27:42		0.793867 (0.080316) with: {'metric': 'manhattan', 'n_neighbors': 19, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.794012 (0.078896) with: {'metric': 'manhattan', 'n_neighbors': 19, 'weights': 'distance'}
+2022-03-13/23:27:42		0.742208 (0.082676) with: {'metric': 'minkowski', 'n_neighbors': 1, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.742208 (0.082676) with: {'metric': 'minkowski', 'n_neighbors': 1, 'weights': 'distance'}
+2022-03-13/23:27:42		0.760967 (0.074878) with: {'metric': 'minkowski', 'n_neighbors': 3, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.760967 (0.074878) with: {'metric': 'minkowski', 'n_neighbors': 3, 'weights': 'distance'}
+2022-03-13/23:27:42		0.776335 (0.094238) with: {'metric': 'minkowski', 'n_neighbors': 5, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.779509 (0.095297) with: {'metric': 'minkowski', 'n_neighbors': 5, 'weights': 'distance'}
+2022-03-13/23:27:42		0.763853 (0.079368) with: {'metric': 'minkowski', 'n_neighbors': 7, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.773304 (0.076966) with: {'metric': 'minkowski', 'n_neighbors': 7, 'weights': 'distance'}
+2022-03-13/23:27:42		0.761039 (0.085346) with: {'metric': 'minkowski', 'n_neighbors': 9, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.772078 (0.077131) with: {'metric': 'minkowski', 'n_neighbors': 9, 'weights': 'distance'}
+2022-03-13/23:27:42		0.768687 (0.092288) with: {'metric': 'minkowski', 'n_neighbors': 11, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.773449 (0.084527) with: {'metric': 'minkowski', 'n_neighbors': 11, 'weights': 'distance'}
+2022-03-13/23:27:42		0.770130 (0.090237) with: {'metric': 'minkowski', 'n_neighbors': 13, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.781241 (0.086363) with: {'metric': 'minkowski', 'n_neighbors': 13, 'weights': 'distance'}
+2022-03-13/23:27:42		0.768398 (0.085154) with: {'metric': 'minkowski', 'n_neighbors': 15, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.768615 (0.087793) with: {'metric': 'minkowski', 'n_neighbors': 15, 'weights': 'distance'}
+2022-03-13/23:27:42		0.771645 (0.084452) with: {'metric': 'minkowski', 'n_neighbors': 17, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.771717 (0.087726) with: {'metric': 'minkowski', 'n_neighbors': 17, 'weights': 'distance'}
+2022-03-13/23:27:42		0.779654 (0.082769) with: {'metric': 'minkowski', 'n_neighbors': 19, 'weights': 'uniform'}
+2022-03-13/23:27:42		0.784343 (0.074438) with: {'metric': 'minkowski', 'n_neighbors': 19, 'weights': 'distance'}
+2022-03-13/23:27:42		Finish Hyperparameter tuning for KNN.
+2022-03-13/23:27:42		Finished KNN Training.
+2022-03-13/23:32:10		Calculating accuracy Score.
+2022-03-13/23:32:37		Calculating accuracy Score.
+2022-03-13/23:32:37		Doing Hyperparameter tuning.
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 0.01, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 0.01, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 0.01, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 0.01, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/23:32:39		0.778355 (0.066891) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/23:32:39		0.778355 (0.066891) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/23:32:39		0.778355 (0.066891) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/23:32:39		0.778355 (0.066891) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 0.1, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 0.1, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 0.1, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 0.1, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/23:32:39		0.783550 (0.077976) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/23:32:39		0.783550 (0.077976) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/23:32:39		0.783550 (0.077976) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/23:32:39		0.783550 (0.077976) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 1, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 1, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 1, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 1, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/23:32:39		0.769048 (0.080186) with: {'C': 1, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/23:32:39		0.769048 (0.080186) with: {'C': 1, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/23:32:39		0.769048 (0.080186) with: {'C': 1, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/23:32:39		0.769048 (0.080186) with: {'C': 1, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 10, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 10, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 10, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 10, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 10, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 10, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 10, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 10, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 100, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 100, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 100, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 100, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 100, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 100, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 100, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/23:32:39		0.764286 (0.084590) with: {'C': 100, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/23:32:39		Finish Hyperparameter tuning for logistic regression using KFold.
+2022-03-13/23:45:54		Calculating accuracy Score.
+2022-03-13/23:45:54		Doing Hyperparameter tuning.
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 0.01, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 0.01, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 0.01, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 0.01, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/23:45:56		0.778355 (0.066891) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/23:45:56		0.778355 (0.066891) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/23:45:56		0.778355 (0.066891) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/23:45:56		0.778355 (0.066891) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 0.1, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 0.1, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 0.1, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 0.1, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/23:45:56		0.783550 (0.077976) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/23:45:56		0.783550 (0.077976) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/23:45:56		0.783550 (0.077976) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/23:45:56		0.783550 (0.077976) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 1, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 1, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 1, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 1, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/23:45:56		0.769048 (0.080186) with: {'C': 1, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/23:45:56		0.769048 (0.080186) with: {'C': 1, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/23:45:56		0.769048 (0.080186) with: {'C': 1, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/23:45:56		0.769048 (0.080186) with: {'C': 1, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 10, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 10, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 10, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 10, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 10, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 10, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 10, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 10, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 100, 'penalty': 'none', 'solver': 'newton-cg'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 100, 'penalty': 'none', 'solver': 'lbfgs'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 100, 'penalty': 'none', 'solver': 'sag'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 100, 'penalty': 'none', 'solver': 'saga'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 100, 'penalty': 'l2', 'solver': 'newton-cg'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 100, 'penalty': 'l2', 'solver': 'lbfgs'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 100, 'penalty': 'l2', 'solver': 'sag'}
+2022-03-13/23:45:56		0.764286 (0.084590) with: {'C': 100, 'penalty': 'l2', 'solver': 'saga'}
+2022-03-13/23:45:56		Finish Hyperparameter tuning for logistic regression using KFold.
